@@ -2,7 +2,7 @@
 
 ### I'm a developer and tech-enthusiast!
 
--    I am currently working as a Software Developer for [Innovative Solution Pvt. Ltd.][innovativesolution]!
+-    I am currently working as a Software Developer for Innovative Solution Pvt. Ltd.
 -    I am learning Laravel with PostgreSQL for GIS based application development
 -    I am looking forward to learn and collaborate with other programmers to grow together
 -    2021 Goal: Grow as software developer
